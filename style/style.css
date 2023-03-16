@@ -1,0 +1,83 @@
+
+.menu{
+    background-color: rgb(88, 91, 178);
+    height: 50px;
+}
+
+@font-face{
+   font-family: "ofont.ru_Montserrat";
+   src: url(../fonts/ofont.ru_Montserrat.ttf)
+}
+
+*{
+   font-family: "ofont.ru_Montserrat";
+}
+
+.button{
+    border: 1px rgb(113, 24, 4);
+    background-color: rgb(110, 50, 4);
+    color:rgb(255, 255, 255);
+    padding:10px 15px 10px 15px;
+    margin:5px;
+    border: 10px;
+    border-radius: 15px;
+}
+
+.button:hover{
+    background-color: aqua;
+    color:white;
+}
+
+.button1{
+    border: 1px rgb(113, 24, 4);
+    background-color: rgb(110, 50, 4);
+    color:rgb(255, 255, 255);
+    padding:10px 15px 10px 15px;
+    margin:5px;
+    border: 10px;
+    border-radius: 15px;
+}
+
+.button1:hover{
+    background-color: aqua;
+    color:white;
+}
+
+.button2{
+    border: 1px rgb(113, 24, 4);
+    background-color: rgb(110, 50, 4);
+    color:rgb(255, 255, 255);
+    padding:10px 15px 10px 15px;
+    margin:5px;
+    border: 10px;
+    border-radius: 15px;
+}
+
+.button2:hover{
+    background-color: aqua;
+    color:white;
+}
+
+@font-face{
+    font-family: "ofont.ru_Bebas Neue";
+    src: url(../fonts/ofont.ru_Bebas\ Neue.ttf)
+}
+ 
+.button3{
+    font-family: "ofont.ru_Bebas Neue";
+}
+
+.button3{
+    border: 1px rgb(255, 0, 0);
+    background-color: rgb(255, 1, 1);
+    color:rgb(255, 255, 255);
+    padding:10px 15px 10px 15px;
+    margin:5px;
+    border: 10px;
+    border-radius: 15px;
+}
+
+.button3:hover{
+    background-color: rgb(224, 123, 123);
+    color:white;
+}
